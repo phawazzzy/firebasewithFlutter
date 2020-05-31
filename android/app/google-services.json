@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632130967182",
+    "firebase_url": "https://brewapp-812ae.firebaseio.com",
+    "project_id": "brewapp-812ae",
+    "storage_bucket": "brewapp-812ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632130967182:android:cbae90d0f1774b4c4f5bdf",
+        "android_client_info": {
+          "package_name": "com.phawazzzy.firebaseFlutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632130967182-nh48cl65kc78h243lo57ib6k7b0bqq96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjmSHap2DcYsjJHj81VCjyn34Q9S8ZlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632130967182-nh48cl65kc78h243lo57ib6k7b0bqq96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
